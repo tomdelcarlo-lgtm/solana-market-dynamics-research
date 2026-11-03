@@ -19,14 +19,14 @@ All generated artifacts are local and ignored under `.runtime/`. Set `SOLANA_OUT
 
 ## Optional full historical modules
 
-The core workflow above needs no packages or network. The optional pinned environment targets Python 3.9–3.12; its NumPy pin predates Python 3.13. If you separately choose to explore the full historical collector/runtime/dashboard, create an environment and install the declared dependencies:
+The core workflow above needs no packages or network. The optional pinned environment targets Python 3.10–3.12: the minimum patched Requests/Streamlit versions require Python 3.10+, and the unchanged NumPy pin predates Python 3.13. If you separately choose to explore the full historical collector/runtime/dashboard, create an environment and install the declared dependencies:
 
 ```sh
-python3 -m venv .venv
+python3.12 -m venv .venv
 .venv/bin/python -m pip install -r requirements-engine.txt
 ```
 
-No dependency installation or live collection was performed during publication. Version pins reflect the installed import-check environment, not a recovered original notebook lockfile. Optional SMOTE/SHAP callables have a separate `requirements-ml.txt`; those extras were not installed and historical fits were not rerun.
+No dependency installation or live collection was performed during publication. Version pins reflect the original import-check environment with targeted Requests/Streamlit security fixes, not a recovered original notebook lockfile. Optional SMOTE/SHAP callables have a separate `requirements-ml.txt`; those extras were not installed and historical fits were not rerun.
 
 ### Read-only network collection
 
