@@ -17,3 +17,18 @@ dist/
 **/logs/
 **/state/
 *.json.tmp
+
+# Sensitive authentication and signing artifacts must never be versioned.
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*
+secrets*
+keypair*
+wallet*.json
+cookies*
+session*.json
+*.keystore
