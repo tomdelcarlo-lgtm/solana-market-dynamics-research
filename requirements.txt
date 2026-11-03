@@ -1,0 +1,2 @@
+# Python >=3.9. Standard-library-only reproduction and tests.
+# No pip install is needed. No runtime or third-party dependencies.

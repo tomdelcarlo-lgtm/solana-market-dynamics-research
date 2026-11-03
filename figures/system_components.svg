@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="760" viewBox="0 0 1180 760" role="img" aria-labelledby="title description">
+<title id="title">A research system, with its real implementation retained</title>
+<desc id="description">Original algorithms plus documented packaging/safety changes. Public execution is paper or dry-run only. published source components</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="760" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">PUBLISHED SOURCE COMPONENTS</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">A research system, with its real implementation retained</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Original algorithms plus documented packaging/safety changes. Public execution is paper or dry-run only.</text>
+<rect x="42" y="155" width="350" height="204" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="185" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">collector/</text>
+<text x="60" y="216" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Actual binary decoder, program-log</text>
+<text x="60" y="239" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">subscription and migration/pool</text>
+<text x="60" y="262" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">collection. Offline synthetic replay</text>
+<text x="60" y="285" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">by default.</text>
+<line x1="392" y1="255" x2="409" y2="255" stroke="#dbe4e9" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="412" y="155" width="350" height="204" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="430" y="185" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">market_state/</text>
+<text x="430" y="216" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Original bounded dedup, observed</text>
+<text x="430" y="239" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">token histories, tape/decision</text>
+<text x="430" y="262" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">writers, atomic positions and</text>
+<text x="430" y="285" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">normalized SQL DDL.</text>
+<line x1="762" y1="255" x2="779" y2="255" stroke="#dbe4e9" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="782" y="155" width="350" height="204" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="800" y="185" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">signals/</text>
+<text x="800" y="216" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Original feature formulas, buyer-</text>
+<text x="800" y="239" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">trigger anchor, final track snapshot,</text>
+<text x="800" y="262" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">ranking/entry/exit runtime and ML</text>
+<text x="800" y="285" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">cell bodies.</text>
+<rect x="42" y="395" width="350" height="204" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="425" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">trading/</text>
+<text x="60" y="456" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Original</text>
+<text x="60" y="479" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">intent/risk/journal/state/adapter.</text>
+<text x="60" y="502" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Native construction retained for</text>
+<text x="60" y="525" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">inspection; signing and sends</text>
+<text x="60" y="548" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">blocked.</text>
+<line x1="392" y1="495" x2="409" y2="495" stroke="#dbe4e9" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="412" y="395" width="350" height="204" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="430" y="425" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">monitor/</text>
+<text x="430" y="456" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Original Streamlit dashboard and</text>
+<text x="430" y="479" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">market-regime diagnostics; standard-</text>
+<text x="430" y="502" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">library offline monitor over demo</text>
+<text x="430" y="525" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">outputs.</text>
+<line x1="762" y1="495" x2="779" y2="495" stroke="#dbe4e9" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="782" y="395" width="350" height="204" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="800" y="425" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">research/ · src/</text>
+<text x="800" y="456" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Article, state/trajectory hypotheses,</text>
+<text x="800" y="479" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">evidence-qualified chapters, public</text>
+<text x="800" y="502" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">aggregates and deterministic research</text>
+<text x="800" y="525" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">figures.</text>
+<line x1="42" y1="699" x2="1138" y2="699" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="724" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">No private data/configuration is included. Historical source is not a validated deployment; read docs/source_integration.md for</text>
+<text x="42" y="744" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">changes.</text>
+</svg>

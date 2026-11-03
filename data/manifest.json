@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "source_aggregate_sha256": "5938d2aa3161ec3a9b3f9390dae3e261ef467d38730ba7f9cc3f35cc0beb457e",
+  "files": [
+    {
+      "path": "data/verified_aggregates.json",
+      "sha256": "f0ffcf4115335b8f5ee5e62a80c36ac5235c072f4642af2bd9588643e898af01",
+      "kind": "historical aggregate or retained figure"
+    },
+    {
+      "path": "data/checkpoint_method_fixtures.csv",
+      "sha256": "6025550d51395a6a533bfeb0455a92a3c9575f827558ec83487cbd5523722a51",
+      "kind": "synthetic illustrative fixture"
+    },
+    {
+      "path": "data/policy_evolution.csv",
+      "sha256": "14870b09704c8dc0974782a78aa5bb9249b5b1c1a3e658e197fb71f716d70e70",
+      "kind": "documented specifications"
+    },
+    {
+      "path": "data/research_timeline.json",
+      "sha256": "4ecbd547f7546fa54e420edc528fe478d960f146caeea5aea2e7df22290375bd",
+      "kind": "documented specifications"
+    },
+    {
+      "path": "figures/retained_latency_distribution.png",
+      "sha256": "02b7cfd4241732908c2ef717653981b891dfe9a07534e2b9e328cbe2ba6f501f",
+      "kind": "historical aggregate or retained figure"
+    },
+    {
+      "path": "figures/retained_phase_outcome_association.png",
+      "sha256": "f29527d7d20f16906ce804af184b4933599dcf8843185f1e891a78d2c28f0ee8",
+      "kind": "historical aggregate or retained figure"
+    }
+  ]
+}

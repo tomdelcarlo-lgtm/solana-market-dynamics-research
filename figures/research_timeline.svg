@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="1000" viewBox="0 0 1180 1000" role="img" aria-labelledby="title description">
+<title id="title">A research program that changed its unit of analysis</title>
+<desc id="description">Milestones follow evidence dates; spacing is categorical, not proportional to elapsed time. documented history</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="1000" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">DOCUMENTED HISTORY</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">A research program that changed its unit of analysis</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Milestones follow evidence dates; spacing is categorical, not proportional to elapsed time.</text>
+<text x="42" y="180" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#087f8c" text-anchor="start" font-weight="700">Undated → Mar 2026</text>
+<circle cx="237" cy="173" r="6" fill="#087f8c"/>
+<line x1="237" y1="180" x2="237" y2="280" stroke="#dbe4e9" stroke-width="2"/>
+<rect x="265" y="150" width="873" height="93" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="283" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Rare-outcome ML foundations</text>
+<text x="283" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">January 2025 cohort; imbalanced classification, feature engineering, SMOTE, SHAP and calibration.</text>
+<text x="42" y="292" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#087f8c" text-anchor="start" font-weight="700">Mar 2026</text>
+<circle cx="237" cy="285" r="6" fill="#087f8c"/>
+<line x1="237" y1="292" x2="237" y2="392" stroke="#dbe4e9" stroke-width="2"/>
+<rect x="265" y="262" width="873" height="93" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="283" y="292" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">From a label to a betting policy</text>
+<text x="283" y="323" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Paper runtime, assumed payoff bridge and ranking; the research unit expands beyond graduation.</text>
+<text x="42" y="404" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#087f8c" text-anchor="start" font-weight="700">Apr 2026</text>
+<circle cx="237" cy="397" r="6" fill="#087f8c"/>
+<line x1="237" y1="404" x2="237" y2="504" stroke="#dbe4e9" stroke-width="2"/>
+<rect x="265" y="374" width="873" height="93" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="283" y="404" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">States, trajectories and explicit bands</text>
+<text x="283" y="435" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Cold / Warm / Hot, checkpoint classifications, phase warehouse and iterative pressure/mcap rules.</text>
+<text x="42" y="516" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#087f8c" text-anchor="start" font-weight="700">Apr–May 2026</text>
+<circle cx="237" cy="509" r="6" fill="#087f8c"/>
+<line x1="237" y1="516" x2="237" y2="616" stroke="#dbe4e9" stroke-width="2"/>
+<rect x="265" y="486" width="873" height="93" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="283" y="516" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Capture paths, not only final outcomes</text>
+<text x="283" y="547" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Persistent event tapes, per-token state, decision observability, paper and actual execution.</text>
+<text x="42" y="628" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#087f8c" text-anchor="start" font-weight="700">May 26 – Jun 10</text>
+<circle cx="237" cy="621" r="6" fill="#087f8c"/>
+<line x1="237" y1="628" x2="237" y2="728" stroke="#dbe4e9" stroke-width="2"/>
+<rect x="265" y="598" width="873" height="93" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="283" y="628" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Instrument and repair the execution path</text>
+<text x="283" y="659" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Available Git history records native fixes, retries, routing changes, guards and timing</text>
+<text x="283" y="682" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">diagnostics.</text>
+<text x="42" y="740" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#087f8c" text-anchor="start" font-weight="700">Jun 11 – 14, 2026</text>
+<circle cx="237" cy="733" r="6" fill="#087f8c"/>
+<line x1="237" y1="740" x2="237" y2="840" stroke="#dbe4e9" stroke-width="2"/>
+<rect x="265" y="710" width="873" height="93" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="283" y="740" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Pause exposure; preserve a narrower research option</text>
+<text x="283" y="771" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Documented trading pause followed by migration-instruction detection and pool-snapshot collection.</text>
+<text x="42" y="852" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#087f8c" text-anchor="start" font-weight="700">Aug 2026 package</text>
+<circle cx="237" cy="845" r="6" fill="#087f8c"/>
+<rect x="265" y="822" width="873" height="93" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="283" y="852" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Retrospective nonlinear-dynamics adequacy work</text>
+<text x="283" y="883" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Later formal chaos analysis stops at an incomplete specification gate; no reliable chaos result.</text>
+<line x1="42" y1="939" x2="1138" y2="939" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="964" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Source: published reconstruction chronology. Initial notebook start is undated; 2025 labels are cohort dates, not research dates.</text>
+</svg>

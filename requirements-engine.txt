@@ -1,0 +1,14 @@
+# Optional historical collector/runtime/dashboard dependencies.
+# Versions match the installed environment used for import checks, not the
+# unknown original notebook environment. Core demo/tests need none of these.
+numpy==1.26.4
+pandas==2.3.3
+joblib==1.5.3
+websockets==15.0.1
+requests==2.32.5
+solders==0.27.1
+base58==2.1.1
+streamlit==1.50.0
+scikit-learn==1.6.1
+xgboost==2.1.4
+duckdb==1.4.4

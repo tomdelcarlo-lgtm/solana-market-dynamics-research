@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="630" viewBox="0 0 1180 630" role="img" aria-labelledby="title description">
+<title id="title">Two phase-space definitions, two evidence boundaries</title>
+<desc id="description">The checkpoint algorithm and the five-axis proposal must be interpreted separately. conceptual mathematical representation</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="630" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">CONCEPTUAL MATHEMATICAL REPRESENTATION</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">Two phase-space definitions, two evidence boundaries</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">The checkpoint algorithm and the five-axis proposal must be interpreted separately.</text>
+<rect x="42" y="150" width="530" height="270" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Implemented checkpoint space</text>
+<text x="60" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">x = (B, P, S, A). Clipped breadth, ratio-based pressure,</text>
+<text x="60" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">inverse buy concentration, arithmetic activity. Hard boxes</text>
+<text x="60" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">assign Cold / Warm / Hot. Historical reproduction: 2,100</text>
+<text x="60" y="280" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">classifications across 300 tokens.</text>
+<rect x="608" y="150" width="530" height="270" rx="10" fill="#f4f8fa" stroke="#dbe4e9" stroke-dasharray="7 5"/>
+<text x="626" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Five-axis research proposal</text>
+<text x="626" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">x = (B, P, S, A, O). Adds operability as a preferred</text>
+<text x="626" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">market-cap band. Soft multiplicative memberships and</text>
+<text x="626" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">alternative boundaries were proposed. Calibration pending;</text>
+<text x="626" y="280" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">not the checkpoint algorithm.</text>
+<rect x="42" y="450" width="1096" height="89" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="62" y="483" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#087f8c" text-anchor="start" font-weight="700">Trajectory idea: x(t) → x(t+1) → x(t+2)</text>
+<text x="62" y="514" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">A sequence of states is not evidence of a chaotic attractor or a validated trading signal.</text>
+<line x1="42" y1="569" x2="1138" y2="569" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="594" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Conceptual diagram; no token trajectory is invented. No deterministic chaos was established.</text>
+</svg>

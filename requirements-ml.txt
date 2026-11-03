@@ -1,0 +1,5 @@
+# Optional dependencies for the preserved SMOTE/SHAP notebook callables.
+# Not installed or exercised during publication; historical fits are not rerun.
+-r requirements-engine.txt
+imbalanced-learn
+shap

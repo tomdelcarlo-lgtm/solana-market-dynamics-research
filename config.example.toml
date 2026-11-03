@@ -1,0 +1,17 @@
+# Documentation only: no funded account or real endpoint is configured here.
+# The program reads environment variables; this TOML is a field reference.
+[public_defaults]
+TRADING_EXECUTION_MODE = "paper"
+SOLANA_ALLOW_NETWORK = "0"
+SOLANA_OUTPUT_DIR = ".runtime"
+SOLANA_FIXTURE_SOL_USD = "150"
+
+[optional_read_only_collection]
+# Set explicitly in your local shell only if you intend to collect.
+# No default, actual provider endpoint, key, wallet or signing material bundled.
+LIVE_RPC_URL = ""
+SOLANA_WS_URL = ""
+
+[live_execution]
+enabled = false
+note = "Signing, wallet access and submission are hard-disabled in this release."

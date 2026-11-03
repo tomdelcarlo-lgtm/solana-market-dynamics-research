@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640" role="img" aria-labelledby="title description">
+<title id="title">State labels separated graduation outcomes descriptively</title>
+<desc id="description">A materialized warehouse layer; January and February are asymmetric retained cohorts. verified aggregate association</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="640" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">VERIFIED AGGREGATE ASSOCIATION</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">State labels separated graduation outcomes descriptively</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">A materialized warehouse layer; January and February are asymmetric retained cohorts.</text>
+<text x="85" y="170" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">January · curated analytical cohort</text>
+<line x1="85" y1="475" x2="545" y2="475" stroke="#dbe4e9" stroke-width="2"/>
+<text x="73" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">0%</text>
+<line x1="85" y1="395" x2="545" y2="395" stroke="#dbe4e9" stroke-width="2"/>
+<text x="73" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">10%</text>
+<line x1="85" y1="315" x2="545" y2="315" stroke="#dbe4e9" stroke-width="2"/>
+<text x="73" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">20%</text>
+<line x1="85" y1="235" x2="545" y2="235" stroke="#dbe4e9" stroke-width="2"/>
+<text x="73" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">30%</text>
+<rect x="135" y="473.28813485305034" width="90" height="1.7118651469496486" rx="10" fill="#436ca3" stroke="#436ca3"/>
+<text x="180" y="438.28813485305034" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="middle" font-weight="700">0.21%</text>
+<text x="180" y="460.28813485305034" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#526777" text-anchor="middle" font-weight="400">n=22,899</text>
+<text x="180" y="507" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#436ca3" text-anchor="middle" font-weight="400">Cold</text>
+<rect x="280" y="440.7116016909347" width="90" height="34.288398309065286" rx="10" fill="#b3811b" stroke="#b3811b"/>
+<text x="325" y="405.7116016909347" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="middle" font-weight="700">4.29%</text>
+<text x="325" y="427.7116016909347" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#526777" text-anchor="middle" font-weight="400">n=8,516</text>
+<text x="325" y="507" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#b3811b" text-anchor="middle" font-weight="400">Warm</text>
+<rect x="425" y="243.8888888888889" width="90" height="231.1111111111111" rx="10" fill="#b74e4c" stroke="#b74e4c"/>
+<text x="470" y="208.8888888888889" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="middle" font-weight="700">28.89%</text>
+<text x="470" y="230.8888888888889" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#526777" text-anchor="middle" font-weight="400">n=585</text>
+<text x="470" y="507" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#b74e4c" text-anchor="middle" font-weight="400">Hot</text>
+<text x="645" y="170" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">February · broad retained export</text>
+<line x1="645" y1="475" x2="1105" y2="475" stroke="#dbe4e9" stroke-width="2"/>
+<text x="633" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">0%</text>
+<line x1="645" y1="395" x2="1105" y2="395" stroke="#dbe4e9" stroke-width="2"/>
+<text x="633" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">10%</text>
+<line x1="645" y1="315" x2="1105" y2="315" stroke="#dbe4e9" stroke-width="2"/>
+<text x="633" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">20%</text>
+<line x1="645" y1="235" x2="1105" y2="235" stroke="#dbe4e9" stroke-width="2"/>
+<text x="633" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="end" font-weight="400">30%</text>
+<rect x="695" y="473.25920126747576" width="90" height="1.7407987325242447" rx="10" fill="#436ca3" stroke="#436ca3"/>
+<text x="740" y="438.25920126747576" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="middle" font-weight="700">0.22%</text>
+<text x="740" y="460.25920126747576" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#526777" text-anchor="middle" font-weight="400">n=807,905</text>
+<text x="740" y="507" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#436ca3" text-anchor="middle" font-weight="400">Cold</text>
+<rect x="840" y="451.640010618177" width="90" height="23.359989381823006" rx="10" fill="#b3811b" stroke="#b3811b"/>
+<text x="885" y="416.640010618177" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="middle" font-weight="700">2.92%</text>
+<text x="885" y="438.640010618177" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#526777" text-anchor="middle" font-weight="400">n=271,233</text>
+<text x="885" y="507" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#b3811b" text-anchor="middle" font-weight="400">Warm</text>
+<rect x="985" y="397.124974557297" width="90" height="77.87502544270303" rx="10" fill="#b74e4c" stroke="#b74e4c"/>
+<text x="1030" y="362.124974557297" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="middle" font-weight="700">9.73%</text>
+<text x="1030" y="384.124974557297" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#526777" text-anchor="middle" font-weight="400">n=19,652</text>
+<text x="1030" y="507" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#b74e4c" text-anchor="middle" font-weight="400">Hot</text>
+<line x1="42" y1="579" x2="1138" y2="579" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="604" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Positives / phase count. Association does not establish causal regimes, incremental predictive value, executable returns or chaos.</text>
+</svg>

@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+.env.*
+*.log
+*.sqlite*
+*.duckdb*
+*.parquet
+private/
+raw/
+dist/
+
+# Local-only generated replay/state; never publish operational artifacts.
+.runtime/
+**/logs/
+**/state/
+*.json.tmp

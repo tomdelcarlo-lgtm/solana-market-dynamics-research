@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="820" viewBox="0 0 1180 820" role="img" aria-labelledby="title description">
+<title id="title">Observation infrastructure followed the hypotheses</title>
+<desc id="description">Retained CSV path, analytical imports and incomplete normalized ingestion are distinct. implemented architecture + explicit incomplete branch</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="820" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">IMPLEMENTED ARCHITECTURE + EXPLICIT INCOMPLETE BRANCH</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">Observation infrastructure followed the hypotheses</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Retained CSV path, analytical imports and incomplete normalized ingestion are distinct.</text>
+<rect x="42" y="150" width="340" height="130" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Helius program logs</text>
+<text x="60" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Observed trade events; event time</text>
+<text x="60" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">differs from local arrival time.</text>
+<rect x="420" y="150" width="340" height="130" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="438" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Parse &amp; deduplicate</text>
+<text x="438" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Binary event decoding; bounded</text>
+<text x="438" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">session signature / content caches.</text>
+<rect x="798" y="150" width="340" height="130" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="816" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Per-token state</text>
+<text x="816" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">First-observed anchor,</text>
+<text x="816" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">participation, flow, reserves and</text>
+<text x="816" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">features.</text>
+<line x1="382" y1="215" x2="416" y2="215" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="760" y1="215" x2="794" y2="215" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="340" width="340" height="150" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="370" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Persistent event tape</text>
+<text x="60" y="401" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Append-only CSV path, cumulative</text>
+<text x="60" y="424" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">flow and state observations.</text>
+<text x="60" y="447" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Retained collection evidence.</text>
+<rect x="420" y="340" width="340" height="150" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="438" y="370" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Decision observability</text>
+<text x="438" y="401" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Paper decisions, track gates, skips</text>
+<text x="438" y="424" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">and outcomes. Different grain from</text>
+<text x="438" y="447" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">market events.</text>
+<rect x="798" y="340" width="340" height="150" rx="10" fill="#f4f8fa" stroke="#dbe4e9" stroke-dasharray="7 5"/>
+<text x="816" y="370" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Normalized DuckDB</text>
+<text x="816" y="401" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Schema and ingest scaffold.</text>
+<text x="816" y="424" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Inspected raw / snapshot / inference</text>
+<text x="816" y="447" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">tables were empty.</text>
+<line x1="970" y1="280" x2="970" y2="310" stroke="#526777" stroke-width="2"/>
+<line x1="210" y1="310" x2="970" y2="310" stroke="#526777" stroke-width="2"/>
+<line x1="210" y1="310" x2="210" y2="337" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="590" y1="310" x2="590" y2="337" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="970" y1="310" x2="970" y2="337" stroke="#526777" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="7 5"/>
+<rect x="42" y="550" width="530" height="150" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="580" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Research reconstruction</text>
+<text x="60" y="611" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Event horizons and state paths; Dune exports imported into</text>
+<text x="60" y="634" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">a separate analytical warehouse.</text>
+<rect x="608" y="550" width="530" height="150" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="626" y="580" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Collection after the pause</text>
+<text x="626" y="611" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Actual migration instructions → pool lookup / backoff →</text>
+<text x="626" y="634" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">PumpSwap reserve snapshots.</text>
+<line x1="210" y1="490" x2="210" y2="547" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="590" y1="490" x2="590" y2="520" stroke="#526777" stroke-width="2"/>
+<line x1="590" y1="520" x2="460" y2="520" stroke="#526777" stroke-width="2"/>
+<line x1="460" y1="520" x2="460" y2="547" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="42" y1="759" x2="1138" y2="759" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="784" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Dashed branch: implemented scaffold without populated ingestion evidence. No gap-free capture, backfill or production SLA is</text>
+<text x="42" y="804" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">claimed.</text>
+</svg>

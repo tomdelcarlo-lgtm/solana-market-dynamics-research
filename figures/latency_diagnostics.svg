@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="670" viewBox="0 0 1180 670" role="img" aria-labelledby="title description">
+<title id="title">BUY timing diagnostics: central behavior and long tail</title>
+<desc id="description">39 selected matched diagnostics · June 1–11, 2026 · milliseconds converted to seconds. reported measured quantiles</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="670" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">REPORTED MEASURED QUANTILES</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">BUY timing diagnostics: central behavior and long tail</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">39 selected matched diagnostics · June 1–11, 2026 · milliseconds converted to seconds.</text>
+<line x1="415.0" y1="180" x2="415.0" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="415.0" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">0</text>
+<line x1="513.5714285714286" y1="180" x2="513.5714285714286" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="513.5714285714286" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">5</text>
+<line x1="612.1428571428571" y1="180" x2="612.1428571428571" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="612.1428571428571" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">10</text>
+<line x1="710.7142857142858" y1="180" x2="710.7142857142858" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="710.7142857142858" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">15</text>
+<line x1="809.2857142857143" y1="180" x2="809.2857142857143" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="809.2857142857143" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">20</text>
+<line x1="907.8571428571429" y1="180" x2="907.8571428571429" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="907.8571428571429" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">25</text>
+<line x1="1006.4285714285714" y1="180" x2="1006.4285714285714" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="1006.4285714285714" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">30</text>
+<line x1="1105.0" y1="180" x2="1105.0" y2="502" stroke="#dbe4e9" stroke-width="2"/>
+<text x="1105.0" y="529" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526777" text-anchor="middle" font-weight="400">35</text>
+<text x="42" y="211" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">Signal → build</text>
+<line x1="427.79457142857143" y1="206" x2="581.7634977142851" y2="206" stroke="#087f8c" stroke-width="2"/>
+<circle cx="427.79457142857143" cy="206" r="6" fill="#087f8c"/>
+<circle cx="434.734" cy="206" r="6" fill="#b3811b"/>
+<circle cx="581.7634977142851" cy="206" r="6" fill="#b74e4c"/>
+<text x="42" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">p50 0.649s · p90 1.001s · p99 8.459s</text>
+<text x="42" y="296" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">Build → send</text>
+<line x1="446.3792285714286" y1="291" x2="653.6252234285706" y2="291" stroke="#087f8c" stroke-width="2"/>
+<circle cx="446.3792285714286" cy="291" r="6" fill="#087f8c"/>
+<circle cx="452.0837542857143" cy="291" r="6" fill="#b3811b"/>
+<circle cx="653.6252234285706" cy="291" r="6" fill="#b74e4c"/>
+<text x="42" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">p50 1.592s · p90 1.881s · p99 12.104s</text>
+<text x="42" y="381" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">Send → local confirmation</text>
+<line x1="447.29594285714285" y1="376" x2="456.4686845714286" y2="376" stroke="#087f8c" stroke-width="2"/>
+<circle cx="447.29594285714285" cy="376" r="6" fill="#087f8c"/>
+<circle cx="453.47913142857146" cy="376" r="6" fill="#b3811b"/>
+<circle cx="456.4686845714286" cy="376" r="6" fill="#b74e4c"/>
+<text x="42" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">p50 1.638s · p90 1.952s · p99 2.103s</text>
+<text x="42" y="466" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">Signal → local confirmation</text>
+<line x1="488.3529142857143" y1="461" x2="858.8164771428558" y2="461" stroke="#087f8c" stroke-width="2"/>
+<circle cx="488.3529142857143" cy="461" r="6" fill="#087f8c"/>
+<circle cx="503.95164571428575" cy="461" r="6" fill="#b3811b"/>
+<circle cx="858.8164771428558" cy="461" r="6" fill="#b74e4c"/>
+<text x="42" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">p50 3.721s · p90 4.512s · p99 22.512s</text>
+<circle cx="49" cy="565" r="6" fill="#087f8c"/>
+<text x="63" y="570" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#152b3c" text-anchor="start" font-weight="400">p50</text>
+<circle cx="145" cy="565" r="6" fill="#b3811b"/>
+<text x="159" y="570" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#152b3c" text-anchor="start" font-weight="400">p90</text>
+<circle cx="241" cy="565" r="6" fill="#b74e4c"/>
+<text x="255" y="570" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#152b3c" text-anchor="start" font-weight="400">p99</text>
+<text x="350" y="570" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Total maximum: 33.214s; stage quantiles do not add.</text>
+<line x1="42" y1="609" x2="1138" y2="609" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="634" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Reported quantiles, not reconstructed raw timing rows. Local confirmation is not inclusion or complete end-to-end market latency.</text>
+</svg>

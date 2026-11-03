@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="650" viewBox="0 0 1180 650" role="img" aria-labelledby="title description">
+<title id="title">A bounded decision, with research options preserved</title>
+<desc id="description">Opportunity-cost interpretation; no estimated success probability or invented monetary forecast. conceptual decision framework</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="650" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">CONCEPTUAL DECISION FRAMEWORK</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">A bounded decision, with research options preserved</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Opportunity-cost interpretation; no estimated success probability or invented monetary forecast.</text>
+<rect x="42" y="150" width="340" height="200" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Evidence available</text>
+<text x="60" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Negative logged live outcomes;</text>
+<text x="60" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">changing hypotheses; unresolved exit</text>
+<text x="60" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">mechanics and validation.</text>
+<rect x="420" y="150" width="340" height="200" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="438" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Cost of another iteration</text>
+<text x="438" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Engineering time, validation work,</text>
+<text x="438" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">infrastructure cost, capital risk</text>
+<text x="438" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">and displaced projects.</text>
+<rect x="798" y="150" width="340" height="200" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="816" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Decision on June 11</text>
+<text x="816" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Pause pre-migration trading</text>
+<text x="816" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">exposure; prevent automatic</text>
+<text x="816" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">rearming; retain collection and a</text>
+<text x="816" y="280" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">narrower option.</text>
+<line x1="382" y1="249" x2="416" y2="249" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="760" y1="249" x2="794" y2="249" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="399" width="1096" height="130" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="62" y="437" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#087f8c" text-anchor="start" font-weight="700">Value of continuing = incremental benefit + information value − all incremental costs</text>
+<text x="62" y="476" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">A decision framework, not an estimated equation. The later post-migration checkpoint outcome is unknown.</text>
+<line x1="42" y1="589" x2="1138" y2="589" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="614" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Documented action and retrospective interpretation are distinguished. More possible experiments do not imply unlimited research</text>
+<text x="42" y="634" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">value.</text>
+</svg>

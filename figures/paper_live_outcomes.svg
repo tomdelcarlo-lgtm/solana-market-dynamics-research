@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="660" viewBox="0 0 1180 660" role="img" aria-labelledby="title description">
+<title id="title">Paper and live summarize different experiments</title>
+<desc id="description">Separate populations, periods, policies and stakes: no causal execution-tax subtraction. reported aggregates; non-matched samples</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="660" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">REPORTED AGGREGATES; NON-MATCHED SAMPLES</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">Paper and live summarize different experiments</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Separate populations, periods, policies and stakes: no causal execution-tax subtraction.</text>
+<rect x="42" y="150" width="530" height="350" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="64" y="186" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#087f8c" text-anchor="start" font-weight="700">Paper exit rows</text>
+<text x="64" y="220" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">n = 3,360 · Apr 7 – May 19, 2026</text>
+<text x="64" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Nominal observed-price simulation</text>
+<text x="64" y="310" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#152b3c" text-anchor="start" font-weight="700">Mean return: +7.3766%</text>
+<text x="64" y="351" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#152b3c" text-anchor="start" font-weight="400">Median return: -0.3814%</text>
+<text x="64" y="397" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">One repeated ID: 3,359 distinct exit IDs. No finite-</text>
+<text x="64" y="420" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">order or complete cost model.</text>
+<rect x="608" y="150" width="530" height="350" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="630" y="186" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#087f8c" text-anchor="start" font-weight="700">Completed live pairs</text>
+<text x="630" y="220" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">n = 188 · Apr 17 – Jun 11, 2026</text>
+<text x="630" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Logged realized-size accounting</text>
+<text x="630" y="310" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#152b3c" text-anchor="start" font-weight="700">Mean return: -16.2569%</text>
+<text x="630" y="351" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#152b3c" text-anchor="start" font-weight="400">Median return: -20.4028%</text>
+<text x="630" y="397" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Proceeds minus cost: −$166.90 under current convention.</text>
+<text x="630" y="420" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Not a fee-complete wallet reconciliation.</text>
+<text x="42" y="551" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">The historical 173–174-trade headline remains unreconciled; it is not silently substituted.</text>
+<line x1="42" y1="599" x2="1138" y2="599" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="624" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Source: verified aggregate fixture. These are local-log summaries, not an independently released trade ledger.</text>
+</svg>

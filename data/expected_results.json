@@ -1,0 +1,148 @@
+{
+  "scope": "Public aggregate arithmetic and synthetic method demonstration only",
+  "label_prevalence": 0.01821875,
+  "phase_rates": [
+    {
+      "month": "2025-01",
+      "phase": "Cold",
+      "n": 22899,
+      "positives": 49,
+      "rate": 0.0021398314336870607
+    },
+    {
+      "month": "2025-01",
+      "phase": "Hot",
+      "n": 585,
+      "positives": 169,
+      "rate": 0.28888888888888886
+    },
+    {
+      "month": "2025-01",
+      "phase": "Warm",
+      "n": 8516,
+      "positives": 365,
+      "rate": 0.04286049788633161
+    },
+    {
+      "month": "2025-02",
+      "phase": "Cold",
+      "n": 807905,
+      "positives": 1758,
+      "rate": 0.002175998415655306
+    },
+    {
+      "month": "2025-02",
+      "phase": "Hot",
+      "n": 19652,
+      "positives": 1913,
+      "rate": 0.09734378180337878
+    },
+    {
+      "month": "2025-02",
+      "phase": "Warm",
+      "n": 271233,
+      "positives": 7920,
+      "rate": 0.02919998672727876
+    }
+  ],
+  "historical_checkpoint_count_sum": 2100,
+  "paper_distinct_id_arithmetic": 3359,
+  "live_logged_usd_from_subtotals": -166.9017,
+  "live_dollar_profit_factor_from_subtotals": 0.5566472353159154,
+  "reported_buy_latency_seconds": {
+    "p50": 3.7208,
+    "p90": 4.51204,
+    "p99": 22.51242999999993,
+    "max": 33.213800000000006
+  },
+  "synthetic_checkpoint_cases": [
+    {
+      "case": "cold_low_activity",
+      "phase": "Cold",
+      "missing_input": false,
+      "coordinates": {
+        "B": 0.0,
+        "P": 0.10000000000000009,
+        "S": 0.0,
+        "A": 0.0
+      }
+    },
+    {
+      "case": "warm_partial_alignment",
+      "phase": "Warm",
+      "missing_input": false,
+      "coordinates": {
+        "B": 0.375,
+        "P": 0.3999999999999999,
+        "S": 0.5000000000000001,
+        "A": 0.5666666666666667
+      }
+    },
+    {
+      "case": "hot_alignment",
+      "phase": "Hot",
+      "missing_input": false,
+      "coordinates": {
+        "B": 0.8,
+        "P": 0.6000000000000001,
+        "S": 0.8333333333333334,
+        "A": 1.0
+      }
+    },
+    {
+      "case": "warm_narrow_breadth",
+      "phase": "Warm",
+      "missing_input": false,
+      "coordinates": {
+        "B": 0.125,
+        "P": 0.8,
+        "S": 1.0,
+        "A": 1.0
+      }
+    },
+    {
+      "case": "warm_concentration",
+      "phase": "Warm",
+      "missing_input": false,
+      "coordinates": {
+        "B": 1.0,
+        "P": 1.0,
+        "S": 0.0,
+        "A": 1.0
+      }
+    },
+    {
+      "case": "missing_pressure",
+      "phase": "Warm",
+      "missing_input": true,
+      "coordinates": {
+        "B": 1.0,
+        "P": null,
+        "S": 0.8333333333333334,
+        "A": 1.0
+      }
+    },
+    {
+      "case": "cold_missing_structure",
+      "phase": "Cold",
+      "missing_input": true,
+      "coordinates": {
+        "B": 0.0,
+        "P": 0.10000000000000009,
+        "S": null,
+        "A": 0.0
+      }
+    },
+    {
+      "case": "hot_saturated_axes",
+      "phase": "Hot",
+      "missing_input": false,
+      "coordinates": {
+        "B": 1.0,
+        "P": 1.0,
+        "S": 1.0,
+        "A": 1.0
+      }
+    }
+  ]
+}

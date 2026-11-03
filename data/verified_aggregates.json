@@ -1,0 +1,187 @@
+{
+  "training_labels": {
+    "n": 32000,
+    "positive": 583,
+    "rate": 0.01821875
+  },
+  "paper": {
+    "n": 3360,
+    "mean_return": 0.07376569047619047,
+    "median_return": -0.0038139999999999997,
+    "win_rate": 0.49642857142857144,
+    "nominal_pnl_usd": 66615.76000000005,
+    "nominal_drawdown_usd": -2564.5599999999886,
+    "start": "2026-04-07T22:41:31.228409+00:00",
+    "end": "2026-05-19T13:28:11.097986+00:00",
+    "size_usd": {
+      "n": 3360,
+      "mean": 262.3363095238095,
+      "p50": 250.0,
+      "p90": 350.0,
+      "p99": 400.0,
+      "min": 150.0,
+      "max": 500.0
+    },
+    "duplicate_nonempty_trade_ids": 1,
+    "empty_trade_id_rows": 0
+  },
+  "paper_last_exit_per_trade_id": {
+    "n": 3359,
+    "mean_return": 0.07387070526942542,
+    "median_return": -0.003636,
+    "win_rate": 0.4965763620125037,
+    "nominal_pnl_usd": 66685.50000000004,
+    "nominal_drawdown_usd": -2564.5599999999886,
+    "start": "2026-04-07T22:41:31.228409+00:00",
+    "end": "2026-05-19T13:28:11.097986+00:00",
+    "size_usd": {
+      "n": 3359,
+      "mean": 262.3399821375409,
+      "p50": 250.0,
+      "p90": 350.0,
+      "p99": 400.0,
+      "min": 150.0,
+      "max": 500.0
+    }
+  },
+  "latency_ms": {
+    "signal_to_build_ms": {
+      "n": 39,
+      "mean": 1012.5102564102564,
+      "p50": 649.0,
+      "p90": 1001.0,
+      "p99": 8459.01799999997,
+      "min": 526.5,
+      "max": 12971.1
+    },
+    "build_to_send_ms": {
+      "n": 39,
+      "mean": 2036.4051282051282,
+      "p50": 1591.7,
+      "p90": 1881.0600000000002,
+      "p99": 12104.177999999958,
+      "min": 1283.0,
+      "max": 18325.5
+    },
+    "send_to_confirm_ms": {
+      "n": 39,
+      "mean": 1486.4641025641026,
+      "p50": 1638.2,
+      "p90": 1951.8400000000001,
+      "p99": 2103.484,
+      "min": 790.4,
+      "max": 2150.3
+    },
+    "signal_to_fill_ms": {
+      "n": 39,
+      "mean": 4535.387179487179,
+      "p50": 3720.8,
+      "p90": 4512.04,
+      "p99": 22512.42999999993,
+      "min": 3066.5,
+      "max": 33213.8
+    }
+  },
+  "phase_snapshots": {
+    "rows": 2100,
+    "assignment_rows": 2100,
+    "tokens": 300,
+    "checkpoints": [
+      1.0,
+      3.0,
+      5.0,
+      10.0,
+      15.0,
+      20.0,
+      30.0
+    ],
+    "classification_mismatches": 0,
+    "phase_counts": {
+      "Hot": 94,
+      "Warm": 1214,
+      "Cold": 792
+    }
+  },
+  "warehouse_phase_rates": [
+    {
+      "month": "2025-01",
+      "phase": "Cold",
+      "n": 22899,
+      "positives": 49,
+      "rate": 0.0021398314336870607
+    },
+    {
+      "month": "2025-01",
+      "phase": "Hot",
+      "n": 585,
+      "positives": 169,
+      "rate": 0.28888888888888886
+    },
+    {
+      "month": "2025-01",
+      "phase": "Warm",
+      "n": 8516,
+      "positives": 365,
+      "rate": 0.04286049788633161
+    },
+    {
+      "month": "2025-02",
+      "phase": "Cold",
+      "n": 807905,
+      "positives": 1758,
+      "rate": 0.002175998415655306
+    },
+    {
+      "month": "2025-02",
+      "phase": "Hot",
+      "n": 19652,
+      "positives": 1913,
+      "rate": 0.09734378180337878
+    },
+    {
+      "month": "2025-02",
+      "phase": "Warm",
+      "n": 271233,
+      "positives": 7920,
+      "rate": 0.02919998672727876
+    }
+  ],
+  "live_log_pair_summary": {
+    "n": 188,
+    "start": "2026-04-17T23:36:37.478259+00:00",
+    "end": "2026-06-11T16:34:58.457800+00:00",
+    "logged_proceeds_minus_cost_usd": -166.90169999999995,
+    "positive_pnl_usd": 209.5518,
+    "negative_pnl_usd": -376.4535,
+    "profit_factor_usd": 0.5566472353159154,
+    "profit_factor_normalized_returns": 0.39015886263011473,
+    "win_rate": 0.34574468085106386,
+    "return": {
+      "n": 188,
+      "mean": -0.1625688391351231,
+      "p50": -0.20402803186192636,
+      "p90": 0.4002220481267426,
+      "p99": 0.8271544704826961,
+      "min": -0.9540514915031726,
+      "max": 0.9871513795189737
+    },
+    "drawdown_usd": -194.44429999999994,
+    "sell_slippage_bps_proxy": {
+      "n": 188,
+      "mean": 2312.446808510638,
+      "p50": 1278.0,
+      "p90": 6482.000000000002,
+      "p99": 8623.069999999998,
+      "min": 2.0,
+      "max": 9851.0
+    },
+    "multiple_leg_groups": 0
+  },
+  "_publication_scope": {
+    "schema_version": 1,
+    "source": "Completed local forensic reconstruction, 2026-11-03",
+    "raw_records_included": false,
+    "historical_recomputation_requires_private_sources": true,
+    "public_reproduction": "Aggregate arithmetic, unit conversion, method fixtures and figures"
+  }
+}

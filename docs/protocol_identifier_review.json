@@ -1,0 +1,86 @@
+[
+  {
+    "file": "collector/parser.py",
+    "symbol": "PUMPFUN_PROGRAM",
+    "value_sha256": "7995d6357a0f9a8f66625b3d1947cda2fe525422537ae622e3c4b73feb84acae",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "signals/historical_bot.py",
+    "symbol": "PUMPFUN_PROGRAM",
+    "value_sha256": "7995d6357a0f9a8f66625b3d1947cda2fe525422537ae622e3c4b73feb84acae",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/adapter.py",
+    "symbol": "TOKEN_PROGRAM_IDS",
+    "value_sha256": "3df99733e34ba92be4040448ef74357301e4e05f072dad52fc401f17e9834285",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/adapter.py",
+    "symbol": "TOKEN_PROGRAM_IDS",
+    "value_sha256": "06999b8576fcb62a40a8d20f785fc4ebefefb25ac11415a8ad1e99415edfb976",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "PUMP_PROGRAM",
+    "value_sha256": "7995d6357a0f9a8f66625b3d1947cda2fe525422537ae622e3c4b73feb84acae",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "PUMP_GLOBAL",
+    "value_sha256": "f899229e4aa2e38e58ef7e324b4a81a0302f24f8c9a0389bc58b414117e860f1",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "PUMP_EVENT_AUTHORITY",
+    "value_sha256": "baefb5fd1e7c52d7567bbba1cd72f1df8d7e14046c4b9224f322cdf0bd0596aa",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "PUMP_FEE",
+    "value_sha256": "d59f204457ec7367eb887efc2918d772462ffa341137d7769527d82cc9469b38",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "PUMP_FEE_PROGRAM",
+    "value_sha256": "02d279d7c88a5cf5f19ad6c3f866105afd7274a0d89d5293f404ebd2cacc0c93",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "SYSTEM_PROGRAM",
+    "value_sha256": "8a83665f3798727f14f92ad0e6c99fdab08ee731d6cd644c131223fd2f4fed2a",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "TOKEN_PROGRAM",
+    "value_sha256": "3df99733e34ba92be4040448ef74357301e4e05f072dad52fc401f17e9834285",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "TOKEN_2022_PROGRAM",
+    "value_sha256": "06999b8576fcb62a40a8d20f785fc4ebefefb25ac11415a8ad1e99415edfb976",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/execution/pumpfun_native.py",
+    "symbol": "ASSOCIATED_TOKEN_PROGRAM",
+    "value_sha256": "088bd64328b119e2d29d303395ddcf2ddc88d009a241a1671b24e2fa7f22cb3b",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  },
+  {
+    "file": "trading/risk/engine.py",
+    "symbol": "SOL_MINT",
+    "value_sha256": "d77cf5c8a1c79d6b78408a3f545dea88441790fb0245268398f1d09455e29b18",
+    "reason": "Required public protocol/program identifier; not an observed personal wallet or transaction."
+  }
+]

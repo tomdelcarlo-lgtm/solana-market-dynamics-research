@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="710" viewBox="0 0 1180 710" role="img" aria-labelledby="title description">
+<title id="title">Execution required its own state and evidence</title>
+<desc id="description">Historical implementation retained; public live signing and submission are disabled. implemented historical pipeline</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="710" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">IMPLEMENTED HISTORICAL PIPELINE</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">Execution required its own state and evidence</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Historical implementation retained; public live signing and submission are disabled.</text>
+<rect x="42" y="150" width="350" height="180" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Signal / track</text>
+<text x="60" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Buyer trigger, pressure, market cap,</text>
+<text x="60" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">time and policy state.</text>
+<line x1="392" y1="235" x2="409" y2="235" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="412" y="150" width="350" height="180" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="430" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Intent / risk</text>
+<text x="430" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Quote metadata, sizing, exposure,</text>
+<text x="430" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">wallet feasibility and guards.</text>
+<line x1="762" y1="235" x2="779" y2="235" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="782" y="150" width="350" height="180" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="800" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Construct / sign</text>
+<text x="800" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Historical native solders path,</text>
+<text x="800" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">account reads and compute settings.</text>
+<rect x="42" y="370" width="350" height="180" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="400" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Submit</text>
+<text x="60" y="431" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">RPC broadcast; optional Jito</text>
+<text x="60" y="454" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">experiment and fallback in historical</text>
+<text x="60" y="477" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">versions.</text>
+<line x1="392" y1="455" x2="409" y2="455" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="412" y="370" width="350" height="180" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="430" y="400" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Confirm / account</text>
+<text x="430" y="431" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Local polling, transaction metadata,</text>
+<text x="430" y="454" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">position journal and USD proxy.</text>
+<line x1="762" y1="455" x2="779" y2="455" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="782" y="370" width="350" height="180" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="800" y="400" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#087f8c" text-anchor="start" font-weight="700">Exit / recovery</text>
+<text x="800" y="431" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Exit trigger, SELL 6003</text>
+<text x="800" y="454" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">rebuild/retry, failed exits and</text>
+<text x="800" y="477" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">orphan recovery.</text>
+<line x1="957" y1="330" x2="957" y2="350" stroke="#526777" stroke-width="2"/>
+<line x1="957" y1="350" x2="217" y2="350" stroke="#526777" stroke-width="2"/>
+<line x1="217" y1="350" x2="217" y2="367" stroke="#526777" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="42" y="594" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#087f8c" text-anchor="start" font-weight="700">Observation → decision → send → inclusion → confirmation are separate clock boundaries.</text>
+<line x1="42" y1="649" x2="1138" y2="649" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="674" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Historical paths evolved over time. The public release supports offline dry-run; wallet access, signing and submission are</text>
+<text x="42" y="694" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">disabled.</text>
+</svg>

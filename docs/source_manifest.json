@@ -1,0 +1,213 @@
+[
+  {
+    "source_alias": "execution/pumpfun_cli_shim.py",
+    "destination": "trading/execution/pumpfun_cli_shim.py",
+    "source_sha256": "42713d414fe015461b461a66f437d7d896ddb8232110f6d87f46053f4eef0878",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "b0ae4e4131c8ac986ce638b826d5844ec5ed15f21cf0d7b0ccb3386eb328d789"
+  },
+  {
+    "source_alias": "execution/market_regime.py",
+    "destination": "trading/execution/market_regime.py",
+    "source_sha256": "df9f9830a0a153721c5c28fa56b1b6fc6e4afb1a482ad938e473fc1736596b5d",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "60a99c73fefc8df31f19975d4451444bd1acccbdf94ee4dc24d581ec7ea1fd9f"
+  },
+  {
+    "source_alias": "execution/journal.py",
+    "destination": "trading/execution/journal.py",
+    "source_sha256": "93d3b7333dad748196981fd56a10f134545b3f0a3c35e11e7c1f5f6832be3577",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "eee841c25202dda053658faecd0be9e13771db04b59efa469bcf6e7a0b53c8bc"
+  },
+  {
+    "source_alias": "execution/config.py",
+    "destination": "trading/execution/config.py",
+    "source_sha256": "de45a5517dd3d5f39641bd093327ae433d61cd36223bd77f1adcc11c4d4b5e8f",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "681a05145d4ee68191a42b5b36b7720c2bd7472dc77c14afcdafa73cab3e0356"
+  },
+  {
+    "source_alias": "execution/adapter.py",
+    "destination": "trading/execution/adapter.py",
+    "source_sha256": "ec6d530cc151356538d890da59a5d4048a203f47b51d57307a22187e368be637",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary.",
+      "Lazy disabled native send aliases preserve stdlib dry-run; direct signing/keyfile/send paths blocked."
+    ],
+    "public_sha256": "ce6e5cecbb5fa59e3ae3a0ec41e7a62fb2a1f790458bc61232dadd0afc979d92"
+  },
+  {
+    "source_alias": "execution/quote.py",
+    "destination": "trading/execution/quote.py",
+    "source_sha256": "1dcdc48bfc406cd89e571a1a9eb763cc1f9d03e3c6de990c09f108c56c909fc7",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "720b33a1776780ada15e3c3d56ec3cbcb4b85acb16a080cee00248574a789a41"
+  },
+  {
+    "source_alias": "execution/types.py",
+    "destination": "trading/execution/types.py",
+    "source_sha256": "52990cbdaa69e0d8a0bce440427cc366f03dba0187cde84bb1a9ecfb5922de38",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "a50d394ce667ac2840aab9b1f659b1509d2cd1e18e3ae423824bca9b5457834c"
+  },
+  {
+    "source_alias": "execution/shadow_journal.py",
+    "destination": "trading/execution/shadow_journal.py",
+    "source_sha256": "0c40d8bc3780f9ebd5910cb27c8ff886b6c7cd701d63faa9c3c5a28ecf4aa9e0",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "9684b06111b34997332c13b9b0ca3734453fff2b7254322a0ad31b351ad0b9b4"
+  },
+  {
+    "source_alias": "execution/pumpfun_native.py",
+    "destination": "trading/execution/pumpfun_native.py",
+    "source_sha256": "9c5c7732addfe980e57d95e88d835047dd5873ef6e3883a9441bdf09ad42c945",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary.",
+      "Tip/recipient lists and default sprayed endpoints excluded; every send/key-load function raises before side effects; RPC helper read-only gated."
+    ],
+    "public_sha256": "2c09653e11fb33423ad792ff171a15a4f13d17f887a53c2ffc58c2ffb2aea2e0"
+  },
+  {
+    "source_alias": "execution/state.py",
+    "destination": "trading/execution/state.py",
+    "source_sha256": "ac5f7b1d86c8350ef4817e61354561198e78ce11e7cae23f38cf529b673c93c7",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary.",
+      "Integrity check probes unreadable/corrupt state before forgiving load; malformed root rejected; atomic-replace concurrency wording clarified."
+    ],
+    "public_sha256": "331580b6d9db00a6a0323a9a56b39763b6f28d223a00b69bc447d652f1f6b0e2"
+  },
+  {
+    "source_alias": "risk/policy.py",
+    "destination": "trading/risk/policy.py",
+    "source_sha256": "5e26fd2ca438ee06791f42d12f27fb9ba4f433f8f1128f0ed1bdd7892dfe0909",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "ff65fbe83e6c0cb84730beee04d8cd57c85a10b7c3ed269d71ced78ba16b57ec"
+  },
+  {
+    "source_alias": "risk/engine.py",
+    "destination": "trading/risk/engine.py",
+    "source_sha256": "0fbb28d1ccb17d11ee316bd4990b2bdc79cb27cb9049b507a076cddc23f5c642",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary.",
+      "Keyfile read disabled; read-only HTTP helpers explicitly gated."
+    ],
+    "public_sha256": "d86d5c0a19462405a0875a5948f27b4f30ae3d5ee1664b49fa35bbe66d09d9ed"
+  },
+  {
+    "source_alias": "ops/live_control.py",
+    "destination": "trading/ops/live_control.py",
+    "source_sha256": "454f11ecf2634d039df4b962ea404f627a23095793d3d526b8bed1b44ab3ecbc",
+    "changes": [
+      "Package-qualified imports; runtime artifacts relocated; publication safety boundary."
+    ],
+    "public_sha256": "c772e372ac9e74ae126c07cfc84618eef53b6196d2c4c4ef09e9b3c4ecddc466"
+  },
+  {
+    "source_alias": "pumpfun_bot.py",
+    "destination": "signals/historical_bot.py",
+    "source_sha256": "d53f1f25e576d5c58afa1af67a72c5c96c47607ed34654ecd993457942cd34d4",
+    "changes": [
+      "Imports/runtime paths; no import-time missing-key exit; explicit read-only networking opt-in; hard-disabled live adapter; 105-byte parser boundary correction; private bridge excluded. Historical policy/entry/exit/ranking bodies retained."
+    ],
+    "public_sha256": "ce9b13b3015270f320d313dd665527692d7daa7d744edf50281e0d217b2a6d37"
+  },
+  {
+    "source_alias": "migration_collector.py",
+    "destination": "collector/migration_collector.py",
+    "source_sha256": "bb66032617948948a186a7d406f3f4cb95ff0a6721f826f15fcd7ca17264a9a1",
+    "changes": [
+      "Package imports; runtime paths; offline-safe import; opt-in read-only network gate; 105-byte check; historical claim of 100% coverage qualified."
+    ],
+    "public_sha256": "e18ae7ac44eec0cf823a23fb9673981e6cf73167bc8ad0e364ca374ebb1bb836"
+  },
+  {
+    "source_alias": "dashboard.py",
+    "destination": "monitor/dashboard.py",
+    "source_sha256": "7e1d770e47d0f5ee52c8c26074fd7d0b7db77c6071bb05e43dd3af796ebe412f",
+    "changes": [
+      "Package/runtime path; external font removed; process probing disabled; historical display computations retained."
+    ],
+    "public_sha256": "49e69d6c8c4df4e5f6cab2dd62efffc814fa7f2196f4ed03bfc33c4a68828999"
+  },
+  {
+    "source_alias": "pumpfun_bot.py",
+    "destination": "collector/parser.py",
+    "source_sha256": "d53f1f25e576d5c58afa1af67a72c5c96c47607ed34654ecd993457942cd34d4",
+    "changes": [
+      "Selected original parser functions; 105-byte boundary fix and injected local SOL/USD; otherwise original field layout/discriminator/decimal semantics."
+    ],
+    "public_sha256": "4073859432572d3931818bb12717faab61fce802f548678d395ae923c796703d"
+  },
+  {
+    "source_alias": "pumpfun_bot.py",
+    "destination": "signals/features.py",
+    "source_sha256": "d53f1f25e576d5c58afa1af67a72c5c96c47607ed34654ecd993457942cd34d4",
+    "changes": [
+      "Original feature/gate/signal/PnL bodies; math.log1p for NumPy scalar equivalent; local fixture quote."
+    ],
+    "public_sha256": "686624bcbeffbbd079a3ba11492fc446b46ba6e63e2bc336143ff12f167fe459"
+  },
+  {
+    "source_alias": "pumpfun_bot.py",
+    "destination": "market_state/tape.py",
+    "source_sha256": "d53f1f25e576d5c58afa1af67a72c5c96c47607ed34654ecd993457942cd34d4",
+    "changes": [
+      "Original CSV schemas/writers; public runtime directory; UTC display for replay; no private records."
+    ],
+    "public_sha256": "ede150da22bac646ce4e58255121c3350baed001f165fa3b1259620688274986"
+  },
+  {
+    "source_alias": "pumpfun_bot.py",
+    "destination": "market_state/reconstruction.py",
+    "source_sha256": "d53f1f25e576d5c58afa1af67a72c5c96c47607ed34654ecd993457942cd34d4",
+    "changes": [
+      "Original state/dedup/handle_trade bodies; explicit callback seam separates replay from action; no-op callbacks documented. Full original decision path remains in signals/historical_bot.py."
+    ],
+    "public_sha256": "e00cb626c46fecf2fc5838491e76786b34c4b0a736eff828e660d683328262f0"
+  },
+  {
+    "source_alias": "ML notebook (zero-based cells 136,138,141,144,145,149,153,172,176)",
+    "destination": "signals/ml_experiments.py",
+    "source_sha256": "4c351cd12263fa61d3f6d831ccf45de0290648741468f1276684454d5c003a6b",
+    "changes": [
+      "Callable packaging and explicit imports only; source outputs, cloud paths and data excluded."
+    ],
+    "public_sha256": "b0db1fafe2b2906cf5e2fd3d4a0738cbd45ccf3fb5d12a98b34ef5d716fd2c48"
+  },
+  {
+    "source_alias": "data-layer storage DDL",
+    "destination": "market_state/schema.py",
+    "source_sha256": "5a1dc1671ec155b57eae68dbb90d63b9cd6a14d859a3f3807383a21d173c7d5c",
+    "changes": [
+      "Extracted actual four-layer DDL only; private data and connection configuration excluded."
+    ],
+    "public_sha256": "119e16ac07840c07b80310da8c00ce34a68d254549f4be784e3887e3066990e9"
+  },
+  {
+    "source_alias": "checkpoint phase assignment source",
+    "destination": "signals/checkpoint_phase.py",
+    "source_sha256": "0090d08a40dddc44277180d23798339cf816d8f45d3edceafa6c604883065021",
+    "changes": [
+      "Original phase/summary/transition/archetype function bodies; private absolute path removed; explicit input/output CLI; no token data."
+    ],
+    "public_sha256": "1a34009ea64a29547fc4f4afaa2c18ced8a8ca55090f5625116910925627317f"
+  }
+]

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="690" viewBox="0 0 1180 690" role="img" aria-labelledby="title description">
+<title id="title">Cold / Warm / Hot: rules and retained checkpoint counts</title>
+<desc id="description">Four-axis implementation; 2,100 observations across 300 tokens and seven checkpoints. historical aggregates + exact rule</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526777"/></marker></defs>
+<rect width="1180" height="690" fill="white"/>
+<text x="42" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#087f8c" text-anchor="start" font-weight="700">HISTORICAL AGGREGATES + EXACT RULE</text>
+<text x="42" y="85" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#152b3c" text-anchor="start" font-weight="700">Cold / Warm / Hot: rules and retained checkpoint counts</text>
+<text x="42" y="116" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Four-axis implementation; 2,100 observations across 300 tokens and seven checkpoints.</text>
+<rect x="42" y="150" width="350" height="200" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="60" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#436ca3" text-anchor="start" font-weight="700">Cold</text>
+<text x="60" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">B ≤ 0.20, P ≤ 0.20, A ≤ 0.25.</text>
+<text x="60" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Structure S is not part of this</text>
+<text x="60" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">predicate.</text>
+<text x="62" y="405" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#436ca3" text-anchor="start" font-weight="700">792 observations</text>
+<rect x="42" y="437" width="350" height="28" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<rect x="42" y="437" width="132.0" height="28" rx="10" fill="#436ca3" stroke="#436ca3"/>
+<rect x="412" y="150" width="350" height="200" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="430" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#b3811b" text-anchor="start" font-weight="700">Warm</text>
+<text x="430" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">Residual when neither hard predicate</text>
+<text x="430" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">passes. Missing fields can fall here;</text>
+<text x="430" y="257" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">flagged in public examples.</text>
+<text x="432" y="405" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#b3811b" text-anchor="start" font-weight="700">1,214 observations</text>
+<rect x="412" y="437" width="350" height="28" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<rect x="412" y="437" width="202.33333333333334" height="28" rx="10" fill="#b3811b" stroke="#b3811b"/>
+<rect x="782" y="150" width="350" height="200" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<text x="800" y="180" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#b74e4c" text-anchor="start" font-weight="700">Hot</text>
+<text x="800" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">B ≥ 0.60, P ≥ 0.35, S ≥ 0.40, A ≥</text>
+<text x="800" y="234" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526777" text-anchor="start" font-weight="400">0.35. Alignment is required.</text>
+<text x="802" y="405" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#b74e4c" text-anchor="start" font-weight="700">94 observations</text>
+<rect x="782" y="437" width="350" height="28" rx="10" fill="#f4f8fa" stroke="#dbe4e9"/>
+<rect x="782" y="437" width="15.666666666666666" height="28" rx="10" fill="#b74e4c" stroke="#b74e4c"/>
+<text x="42" y="515" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#087f8c" text-anchor="start" font-weight="700">Checkpoints: 1, 3, 5, 10, 15, 20, 30 minutes</text>
+<text x="42" y="551" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#152b3c" text-anchor="start" font-weight="400">Unequal time gaps; counts are repeated observations, not independent tokens.</text>
+<line x1="42" y1="629" x2="1138" y2="629" stroke="#dbe4e9" stroke-width="2"/>
+<text x="42" y="654" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#526777" text-anchor="start" font-weight="400">Source: verified aggregate fixture. Historical labels were checked privately; public synthetic cases demonstrate the algorithm.</text>
+</svg>
